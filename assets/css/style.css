@@ -1,0 +1,8 @@
+:root {
+    --hue: 296;
+    --bg-color: hsl(var(--hue),59%,94%);
+}
+
+body {
+    background-color: var(--bg-color);
+}
